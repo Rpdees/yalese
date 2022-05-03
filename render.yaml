@@ -3,7 +3,7 @@ services:
   - type: web
     name: alist
     env: docker
-    repo: https://github.com/Rpdse/rpdal.git # optional
+    repo: https://github.com/Rpdees/yalese.git # optional
     region: oregon # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     healthCheckPath: /
